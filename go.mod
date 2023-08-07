@@ -2,6 +2,4 @@ module github.com/ejsdotsh/ejs.wtf
 
 go 1.20
 
-require (
-	github.com/ejsdotsh/yacht v0.0.0-20230514181400-9b85e3b2a8de // indirect
-)
+require github.com/ejsdotsh/yacht-hugo-theme v0.0.2 // indirect

@@ -1,2 +1,4 @@
-github.com/ejsdotsh/yacht v0.0.0-20230514181400-9b85e3b2a8de h1:lyvMYMCZEbfuzi0mLtFcQ+gA6rdxeBXLQvoc6QpAEZI=
-github.com/ejsdotsh/yacht v0.0.0-20230514181400-9b85e3b2a8de/go.mod h1:fBziPbhGfdthuxJTXD+npPp22YkLvNG8cTNeCVpa2mM=
+github.com/ejsdotsh/yacht-hugo-theme v0.0.0-20230625212452-f40740d0b774 h1:zr4a/GcIZLOGaywt0m4Kqe5PQLDsJHzzsMvPQBN3gec=
+github.com/ejsdotsh/yacht-hugo-theme v0.0.0-20230625212452-f40740d0b774/go.mod h1:uc4HgUzaxHjvfjW3wI2JiT8NkLlXC9zsI6g4OVoUGKg=
+github.com/ejsdotsh/yacht-hugo-theme v0.0.2 h1:3fVr/BGGK33s4HKy+HfNZxutizIR/lIb1lxTZ5qBW9A=
+github.com/ejsdotsh/yacht-hugo-theme v0.0.2/go.mod h1:bHuEC4h3wnAbq0OBzoW19G/dX7jsVy8PrmrMg/7ID5M=

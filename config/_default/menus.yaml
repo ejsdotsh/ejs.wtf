@@ -3,6 +3,14 @@ main:
     name: "home"
     weight: 100
     url: "/"
+  - identifier: "blog"
+    name: "blog"
+    weight: 130
+    url: "/blog/"
+  - identifier: "contact"
+    name: "contact"
+    weight: 1000
+    url: "/contact/"
 
 footer:
   - identifier: "MPL-2.0"

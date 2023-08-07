@@ -1,18 +1,15 @@
 # available palettes
 #  "latte", "frappe", "macchiate", "mocha" :
-palette: "macchiato"
+palette: "mocha"
 
 # custom css
 # customCss: "css/syntax.css":
 
-subTitle: |
-  under (re)construction
+subTitle: "(infrequent) writing on technology, coffee, and other stuff"
 
-  (infrequent) musings on technology, coffee, and other stuff
-
-author: "e.j. sahala"
+author: "e.j. sahala (they/them)"
 description: |
-  personal site of e.j. sahala (they/them).
+  blog site of e.j. sahala (they/them).
 
   writings on networking, automation, technology, philosophy, and sometimes other stuff
 
@@ -20,26 +17,20 @@ description: |
 
   **TransLivesMatter**
 
+logoPicture: "images/ejs-wtf.svg"
 profilePicture: "images/profile.png"
 profilePictureAlt: "a photo of e.j. taking a photo"
 copyrightFrom: "2022"
 
 # github integration
-gh_user_api: "https://api.github.com/users"
-gh_user: "ejsdotsh"
+# gh_user_api: "https://api.github.com/users"
+# gh_user: "ejsdotsh"
 
 # charts
-mermaid: true
+# mermaid: true
 
 # LaTeX
-katex: true
-
-# theme control
-#  displayMode: "dark"
-#  disableThemeSwitcher: true
-#  doNotLoadAnimations: true
-#  contentRatio: 0.7
-
+# katex: true
 
 # params.math:
 # enable: true
@@ -60,4 +51,3 @@ social:
     icon: "fas fa-envelope"
     url: "mailto:contactme@ejs.sh"
     weight: 30
-
